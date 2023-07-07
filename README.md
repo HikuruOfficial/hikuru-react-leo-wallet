@@ -1,3 +1,4 @@
+[![Follow us on Twitter](https://img.shields.io/twitter/follow/HikuruOfficial?style=social&logo=twitter)](https://twitter.com/HikuruOfficial)
 [![Join our Discord](https://img.shields.io/discord/1234567890?color=%237289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)](https://discord.gg/N5aazku2)
 [![React](https://img.shields.io/badge/React-18.0.2-blue.svg)](https://reactjs.org/)
 [![Leo Wallet Adapter](https://img.shields.io/badge/Leo%20Wallet%20Adapter-1.0.0-green.svg)](https://github.com/demox-labs/aleo-wallet-adapter-leo)
