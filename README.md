@@ -27,6 +27,7 @@ To run the application, follow these steps:
 
 To connect Leo wallet to your React project, you can use the `LeoWalletAdapter` from the `@demox-labs/aleo-wallet-adapter-leo` package. Here's an example of how it's done in the code:
 
+
 ```javascript
 import { LeoWalletAdapter } from "@demox-labs/aleo-wallet-adapter-leo";
 import { useState } from 'react';
